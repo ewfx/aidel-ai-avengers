@@ -17,8 +17,8 @@
 This project uses AutoGluon for risk classification and Phi-2 for explainability in fraud detection. It automates risk assessment based on financial metrics, transaction behaviors, and anomalies, predicting risk levels (Low, Medium, High) while providing AI-driven explanations for transparency.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](https://drive.google.com/file/d/1uVtJ9kL1aUr2wH6f77PlQ7GiWZn1UBHq/view?usp=sharing) (if applicable)  
+
 🖼️ Screenshots:
 ![WhatsApp Image 2025-03-26 at 7 40 53 PM](https://github.com/user-attachments/assets/dfce44d0-cba9-47cc-a5d8-18d464859720)
 ![WhatsApp Image 2025-03-26 at 7 41 14 PM](https://github.com/user-attachments/assets/45363822-2550-4e52-bec8-1f1343a64e9d)

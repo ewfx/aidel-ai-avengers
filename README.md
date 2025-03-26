@@ -67,5 +67,8 @@ This project automates risk assessment by:
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Tejasree M S** - [GitHub](rbshyamala) | [LinkedIn](#)
-- **Shyamala R b** - [GitHub](tejasreems1505) | [LinkedIn](#)
+- **Tejasree M S** - [GitHub](https://github.com/tejasree1505) | [LinkedIn](#)
+- **Shyamala R B** - [GitHub](https://github.com/rbshyamala) | [LinkedIn](#)
+- **Sengamali K N** - [GitHub](https://github.com/) | [LinkedIn](#)
+- **Vihit Naga Venkat Arekatla** - [GitHub](https://github.com/) | [LinkedIn](#)
+- **Maheshwara G Yaddanapudi** - [GitHub](https://github.com/) | [LinkedIn](#)

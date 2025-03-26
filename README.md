@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 AutoGluon and Phi-2 Powered Risk Scoring and Fraud Detection
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,26 +14,37 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This project uses AutoGluon for risk classification and Phi-2 for explainability in fraud detection. It automates risk assessment based on financial metrics, transaction behaviors, and anomalies, predicting risk levels (Low, Medium, High) while providing AI-driven explanations for transparency.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
-
-![Screenshot 1](link-to-image)
+![WhatsApp Image 2025-03-26 at 7 40 53 PM](https://github.com/user-attachments/assets/dfce44d0-cba9-47cc-a5d8-18d464859720)
+![WhatsApp Image 2025-03-26 at 7 41 14 PM](https://github.com/user-attachments/assets/45363822-2550-4e52-bec8-1f1343a64e9d)
+![WhatsApp Image 2025-03-26 at 7 54 13 PM](https://github.com/user-attachments/assets/23b1ee01-68b6-4f60-8781-19168bbf95d0)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+The project was inspired by the need for automated, transparent risk assessment in financial fraud detection. Traditional methods struggle with scalability and interpretability, making it difficult to identify high-risk entities effectively. By leveraging AutoGluon for classification and Phi-2 for explainability, this system enhances fraud detection by providing both accurate risk predictions and clear, AI-generated reasoning.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+This project automates risk assessment by:
+- Predicting risk levels using AutoGluon on financial and transactional data.
+- Computing a risk score based on multiple factors like jurisdiction, anomalies, and transaction behaviors.
+- Generating AI-driven explanations with Phi-2 to provide reasoning for the risk classification.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+- AutoGluon was used to train a risk classification model on financial and transactional data.
+- A risk scoring algorithm was designed, incorporating jurisdiction, anomalies, and transaction behaviors.
+- Phi-2 LLM generates explanations for the predicted risk levels.
+- User inputs are processed, risk scores are calculated, and predictions are made in real-time.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+- Handling inconsistencies, missing values, and discrepancies between different data sources, which can impact model performance.
+- Managing the increased computational cost and complexity of risk analysis while ensuring scalability.
+- Defining an effective risk scoring methodology that balances multiple risk factors, including financial metrics, transaction behaviors, jurisdictional risks, and anomalies.
+- Ensuring the accuracy and reliability of risk classification models to minimize false positives and false negatives.
+- Generating reliable explanations using LLMs while avoiding hallucinations and ensuring interpretability in high-stakes fraud detection.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -56,5 +67,5 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Tejasree M S** - [GitHub](rbshyamala) | [LinkedIn](#)
+- **Shyamala R b** - [GitHub](tejasreems1505) | [LinkedIn](#)

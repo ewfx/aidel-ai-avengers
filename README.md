@@ -49,22 +49,26 @@ This project automates risk assessment by:
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   https://github.com/ewfx/aidel-ai-avengers.git
    ```
 2. Install dependencies  
    ```sh
    npm install  # or pip install -r requirements.txt (for Python)
    ```
-3. Run the project  
+3. Set Up Hugging Face API Key
+   - Create an account on Hugging Face.
+   - Generate an API key from your account settings.
+   - Run the following command to authenticate
    ```sh
-   npm start  # or python app.py
+   from huggingface_hub import login
+   login(token="your_api_key_here")
    ```
-
-## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+4. Open and Run the Notebook
+- Machine Learning: AutoGluon for tabular risk classification
+- Large Language Model: Phi-2 for explanation generation
+- Backend: FastAPI / Flask (if applicable)
+- Database: MongoDB / PostgreSQL (if storing data)
+- Other: Hugging Face API for LLM integration
 
 ## 👥 Team
 - **Tejasree M S** - [GitHub](https://github.com/tejasree1505) | [LinkedIn](#)
